@@ -1,0 +1,4 @@
+CREATE TABLE mentors (
+  id INTEGER PRIMARY KEY,
+
+);
